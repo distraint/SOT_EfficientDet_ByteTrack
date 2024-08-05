@@ -26,10 +26,10 @@
 7. **Анализ результатов**:
    - Подсчет и вывод средней оценки детекций, FPS, количества треков (для проверки единственности) и суммарной длины треков в кадрах.
 
+   ## Ссылка на Colab
+   https://colab.research.google.com/drive/1XYXmMWLpd3IO2rtd9iF7n2eO4DxiUyTr#scrollTo=Lt-44kHrH1yO
+
    ## Видеодемонстрация
 
 [![Watch the video](https://img.youtube.com/vi/wf9_lemPlVo/hqdefault.jpg)](https://www.youtube.com/watch?v=wf9_lemPlVo)
 [![Watch the video](https://img.youtube.com/vi/wHlWy0dvyQo/hqdefault.jpg)](https://www.youtube.com/watch?v=wHlWy0dvyQo)
-  
-   ## Ссылка на Colab
-   https://colab.research.google.com/drive/1XYXmMWLpd3IO2rtd9iF7n2eO4DxiUyTr#scrollTo=Lt-44kHrH1yO
