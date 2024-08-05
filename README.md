@@ -30,6 +30,10 @@
    https://colab.research.google.com/drive/1XYXmMWLpd3IO2rtd9iF7n2eO4DxiUyTr#scrollTo=Lt-44kHrH1yO
 
    ## Видеодемонстрация
+- Видео red_car_360x640.mp4, модель tf_efficientdet_lite3x.
 
-[![Watch the video](https://img.youtube.com/vi/wf9_lemPlVo/hqdefault.jpg)](https://www.youtube.com/watch?v=wf9_lemPlVo)
-[![Watch the video](https://img.youtube.com/vi/wHlWy0dvyQo/hqdefault.jpg)](https://www.youtube.com/watch?v=wHlWy0dvyQo)
+</br>[![Watch the video](https://img.youtube.com/vi/wf9_lemPlVo/hqdefault.jpg)](https://www.youtube.com/watch?v=wf9_lemPlVo)
+
+   - Видео black_car_360x640.mp4, модель tf_efficientdet_lite3x.
+     
+</br>[![Watch the video](https://img.youtube.com/vi/wHlWy0dvyQo/hqdefault.jpg)](https://www.youtube.com/watch?v=wHlWy0dvyQo)
